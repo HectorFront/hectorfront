@@ -1,5 +1,5 @@
 <p align="left">
-   <img src="https://www.vippng.com/png/full/64-649208_data-analytics-vector-isometric.png" border="0" width="30%" height="auto">
+   <img src="https://www.kindpng.com/picc/m/370-3704903_programmer-illustration-hd-png-download.png" border="0" width="30%" height="auto">
 </p>
 
 # Eai dev, beleza?
