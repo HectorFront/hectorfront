@@ -1,7 +1,8 @@
 <p align="left">
    <img src="https://stickershop.line-scdn.net/stickershop/v1/product/1007284/LINEStorePC/main.png;compress=true" border="0" width="40%" height="auto">
 </p>
-# Eai dev👋
+
+# Eai dev, beleza?
 
 Meu nome é Hector Rodrigues Da Silva e desde então sou muito apaixonado pelas tecnologias em [🅙🅢](https://www.google.com/search?q=javascript)
 
