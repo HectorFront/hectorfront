@@ -1,5 +1,5 @@
 <p align="left">
-   <img src="https://stickershop.line-scdn.net/stickershop/v1/product/1007284/LINEStorePC/main.png;compress=true" border="0" width="30%" height="auto">
+   <img src="https://www.vippng.com/png/full/64-649208_data-analytics-vector-isometric.png" border="0" width="30%" height="auto">
 </p>
 
 # Eai dev, beleza?
