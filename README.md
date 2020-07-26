@@ -4,7 +4,14 @@
 
 # Eai dev, beleza?
 
-Bom acho que você já viu meu nome ali no canto esquerdo então não vou dizer aqui novamente, mas eu posso te contar que desde então sou muito apaixonado pelas tecnologias em [🅙🅢](https://www.google.com/search?q=javascript) que vem aparecendo nos últimos tempos, com isso venho sempre fazendo projetos interessantes em meu repositório, como por exemplo websites para instituições escolares e até mesmo um projeto voluntário para informar as pessoas sobre a atual [COVID-19](https://covidregional.github.io)(<- clique aqui para visualizar).
+Bom acho que você já viu meu nome ali no canto esquerdo então não vou dizer aqui novamente, mas eu posso te contar que desde então sou muito apaixonado pelas 
+
+tecnologias em [🅙🅢](https://www.google.com/search?q=javascript) que vem aparecendo nos últimos tempos, com isso venho sempre fazendo projetos interessantes em meu 
+
+repositório, como por exemplo websites para instituições escolares e até mesmo um projeto voluntário para informar as pessoas sobre a atual [COVID-19]
+
+(https://covidregional.github.io) <- clique aqui para visualizar.
+
 
 Entretanto, busco sempre dar um passo de cada vez para que nada interfira no meu caminho ;)
 
