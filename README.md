@@ -18,4 +18,8 @@ Entretanto, busco sempre dar um passo de cada vez para que nada interfira no meu
 
 Redes sociais 👇🏼
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/hector-rodrigues-da-silva-4073b3191/) [![Instagram](https://img.shields.io/badge/-Instagram-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hectin_silva/)](https://www.instagram.com/hectin_silva/) [![Facebook](https://img.shields.io/badge/-facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/hectddos103)](https://www.facebook.com/hectddos103)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/hector-rodrigues-da-silva-4073b3191/)
+[![Instagram](https://img.shields.io/badge/-Instagram-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hectin_silva/)](https://www.instagram.com/hectin_silva/)
+[![Facebook](https://img.shields.io/badge/-facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/hectddos103)](https://www.facebook.com/hectddos103)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hectddos103@gmail.com)](mailto:hectddos103@gmail.com)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5514991459179&text=Olá!)](https://api.whatsapp.com/send?phone=5514991283837&text=Olá!)
