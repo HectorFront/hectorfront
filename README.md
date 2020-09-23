@@ -23,4 +23,3 @@ Redes sociais 👇🏼
 [![Facebook](https://img.shields.io/badge/-facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/hectddos103)](https://www.facebook.com/hectddos103)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hectddos103@gmail.com)](mailto:hectddos103@gmail.com)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-c14438?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCh4EaMEcC-hZFj5OyEBJ4Dw?view_as=subscriber)](https://www.youtube.com/channel/UCh4EaMEcC-hZFj5OyEBJ4Dw?view_as=subscriber)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5514991459179&text=Olá!)](https://api.whatsapp.com/send?phone=5514991283837&text=Olá!)
