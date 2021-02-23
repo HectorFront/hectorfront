@@ -1,5 +1,5 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HectorFront.HectorFront)
-![](https://img.shields.io/github/followers/Vdgonc?label=Follow&style=social)
+![](https://img.shields.io/github/followers/HectorFront?label=Follow&style=social)
 
 <p align="left">
    <img src="https://pikadev.fi/assets/code.svg" border="0" width="50%" height="auto">
