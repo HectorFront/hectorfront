@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=HectorFront.HectorFront))
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=HectorFront.HectorFront)
 ![](https://img.shields.io/github/followers/Vdgonc?label=Follow&style=social)
 
 <p align="left">
