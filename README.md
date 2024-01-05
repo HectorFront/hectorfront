@@ -158,7 +158,7 @@ Bot com comandos simples para informar regiões do Brasil sobre a Covid-19.</br>
 	<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" rel="nofollow"> <img src="https://cdn.simpleicons.org/html5" alt="html5" width="auto" height="50" style="max-width: 100%;"> </a>
 	<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" rel="nofollow"> <img src="https://cdn.simpleicons.org/css3" alt="css3" width="auto" height="50" style="max-width: 100%;"> </a>
 	<a href="https://getbootstrap.com" rel="nofollow"> <img src="https://cdn.simpleicons.org/bootstrap" alt="Bootstrap" width="auto" height="50" style="max-width: 100%;"> </a>
-	<a href="https://materializecss.com/" rel="nofollow"> <img src="https://cdn.simpleicons.org/materialdesign" alt="materialdesign" width="auto" height="50" style="max-width: 100%;"> </a>
+	<a href="https://m3.material.io/" rel="nofollow"> <img src="https://cdn.simpleicons.org/materialdesign" alt="materialdesign" width="auto" height="50" style="max-width: 100%;"> </a>
     <a href="https://github.com/css-modules/css-modules" rel="nofollow"> <img src="https://cdn.simpleicons.org/cssmodules" alt="cssmodules" width="auto" height="50" style="max-width: 100%;"> </a>
 	<a href="https://www.figma.com/" rel="nofollow"> <img src="https://cdn.simpleicons.org/figma" width="auto" height="50" style="max-width: 100%;"> </a>
     <a href="https://canva.com" rel="nofollow"> <img src="https://cdn.simpleicons.org/canva" alt="canva" width="50" height="50" style="max-width: 100%;"></a>
