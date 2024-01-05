@@ -210,7 +210,7 @@ Bot com comandos simples para informar regiões do Brasil sobre a Covid-19.</br>
 	<a href="https://sass-lang.com" rel="nofollow"> <img src="https://cdn.simpleicons.org/sass" alt="sass" width="auto" height="50" style="max-width: 100%;"> </a>
 	<a href="https://developers.google.com/analytics" rel="nofollow"> <img src="https://cdn.simpleicons.org/googleanalytics" alt="Google Analytics" width="auto" height="50" style="max-width: 100%;"> </a>
     <a href="https://ads.google.com/" rel="nofollow"> <img src="https://cdn.simpleicons.org/googleads" alt="Google Ads" width="auto" height="50" style="max-width: 100%;"> </a>
-    <a href="hhttps://developers.google.com/maps" rel="nofollow"> <img src="https://cdn.simpleicons.org/googlemaps" alt="Google Maps" width="auto" height="50" style="max-width: 100%;"> </a>
+    <a href="https://developers.google.com/maps" rel="nofollow"> <img src="https://cdn.simpleicons.org/googlemaps" alt="Google Maps" width="auto" height="50" style="max-width: 100%;"> </a>
     <a href="https://openai.com/" rel="nofollow"> <img src="https://cdn.simpleicons.org/openai" alt="OpenAI" width="auto" height="50" style="max-width: 100%;"> </a>
 </p>
 
