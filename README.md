@@ -23,6 +23,7 @@
 - 🎥 Engenheiro: [FullCam - Fulltime Gestora de Dados Ltda](https://fullcam.me)
 - 🪙 CEO Fintech: [Mexpenses - Saia das planilhas e venha ter um brilho financeiro](https://www.mexpenses.net)
 - 🤝 Contribuição durante a pandemia: [Coronavírus | Estado de São Paulo](https://spcovid.github.io)
+- 🤝 Contribuição Open Source: [The Only Ducks](https://github.com/theonlyducks)
 
 <div align="center">
   <a href="https://github.com/hectorfront">
