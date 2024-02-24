@@ -36,7 +36,7 @@
 
 - 📍 <b>Brasil, Garça SP</b> - 21 anos
 - 📬 hectddos103@gmail.com</br>
-- <img src="https://cdn.discordapp.com/attachments/794015985450352661/958163849872281640/discord-logo-2-1.png" width="15" height="auto"/>&nbsp;<b>Hector Silva#6727</b>
+- <img src="https://cdn.simpleicons.org/discord" width="15" height="auto"/>&nbsp;<b>Hector Silva#6727</b>
 
 ```javascript
 import {memo} from 'react';
