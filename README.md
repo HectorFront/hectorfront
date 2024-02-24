@@ -57,7 +57,7 @@ const AboutMe = memo(() => {
        <li>Deploy</li>
     </ul>
     <p className="description">
-       Programando desde os 16 anos e atualmente com 20 anos, possuindo inglês
+       Programando desde os 16 anos e atualmente com 21 anos, possuindo inglês
        técnico e quase 5 anos de experiência profissional em Programação Web, estou
        sempre buscando aprender, melhorar e conhecer as novas tecnologias do 
        mercado atual, para que assim eu possa estar aplicando como contribuição
