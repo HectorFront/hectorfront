@@ -32,7 +32,7 @@
    </a>
 </div>
 
-### <p><img src="https://cdn.discordapp.com/attachments/794015985450352661/958135194454470676/d22c6f_4424a8bec9d14e4db47ad94a9918626bmv2.gif" width="30" height="auto"/>&nbsp;Sobre</p>
+### <p>☕️&nbsp;Sobre</p>
 
 - 📍 <b>Brasil, Garça SP</b> - 21 anos
 - 📬 hectddos103@gmail.com</br>
@@ -71,7 +71,7 @@ const AboutMe = memo(() => {
 
 render(<AboutMe/>,document.getElementById('hector_silva'));
 ```
-<img src="https://cdn.discordapp.com/attachments/794015985450352661/971548215960797224/mr__robot___Tumblr.gif" border="0" width="100%" height="auto">
+<img src="https://general-storage-mexpenses.s3.amazonaws.com/mrobot1.gif" border="0" width="100%" height="auto">
 
 # 🔓 Open Source
 
@@ -82,7 +82,7 @@ render(<AboutMe/>,document.getElementById('hector_silva'));
 Uma funcionalidade de Zoom que segue a direção do mouse através do hover com exemplos em React e Vanilla JS</br>
 </b>
 </br>
-<img src="https://cdn.discordapp.com/attachments/794015985450352661/976531349806669824/Frame_2.png" width="300" height="auto"/></br>
+<img src="https://general-storage-mexpenses.s3.amazonaws.com/zoom.png" width="300" height="auto"/></br>
 <b>✒️ Autores:</b> <em><a href="https://github.com/HectorFront">@Hector Silva</a></em>
 <hr>
 
@@ -94,7 +94,7 @@ O que é um Observador? Um Observador é um consumidor de valores entregues por 
 📜
 <a href="https://rxjs.dev/">Saber mais sobre RxJS.</br></a>
 </br>
-<img src="https://cdn.discordapp.com/attachments/794015985450352661/971613707127906374/Frame_2_5.png" width="300" height="auto"/></br>
+<img src="https://general-storage-mexpenses.s3.amazonaws.com/observable.png" width="300" height="auto"/></br>
 <b>✒️ Autores:</b> <em><a href="https://github.com/HectorFront">@Hector Silva</a></em> <em><a href="https://github.com/giovanesantossilva">@Giovane Santos</a></em></br>
 
 <hr>
@@ -104,7 +104,7 @@ O que é um Observador? Um Observador é um consumidor de valores entregues por 
 API com Node.js para permitir fácil envio de e-mails com o módulo Nodemailer.</br>
 </b>
 </br>
-<img src="https://media.discordapp.net/attachments/794015985450352661/971629300962984046/Frame_4.png" width="300" height="auto"/></br>
+<img src="https://general-storage-mexpenses.s3.amazonaws.com/micromailer.png" width="300" height="auto"/></br>
 <b>✒️ Autores:</b> <em><a href="https://github.com/HectorFront">@Hector Silva</a></em>
 <hr>
 
@@ -119,7 +119,7 @@ API com Node.js para permitir fácil envio de e-mails com o módulo Nodemailer.<
 Bot com comandos simples para informar regiões do Brasil sobre a Covid-19.</br>
 </b>
 </br>
-<img src="https://cdn.discordapp.com/attachments/794015985450352661/971555046254862336/unknown.png" width="300" height="auto"/>
+<img src="https://general-storage-mexpenses.s3.amazonaws.com/discord-bot.png" width="300" height="auto"/>
 <b>✒️ Autores:</b> <em><a href="https://github.com/HectorFront">@Hector Silva</a></em>
 
 <hr>
@@ -132,7 +132,7 @@ Bot com comandos simples para informar regiões do Brasil sobre a Covid-19.</br>
 📝 2019
 <a href="http://www.etecmam.com.br/">Etec Monsenhor Antonio Magliano.</br></a>
 </br>
-<img src="https://media.discordapp.net/attachments/794015985450352661/971629131601182750/Frame_2_7.png" width="300" height="auto"/></br>
+<img src="https://general-storage-mexpenses.s3.amazonaws.com/etecmam.png" width="300" height="auto"/></br>
 <b>✒️ Autores:</b> <em><a href="https://github.com/HectorFront">@Hector Silva</a></em> <em><a href="https://github.com/diogoalvesf">@Diogo Alves</a>&nbsp;</em></br>
 <br/>
 <a href="https://github.com/HectorFront?tab=repositories">📁 Ver mais repositórios...</a>
@@ -140,10 +140,10 @@ Bot com comandos simples para informar regiões do Brasil sobre a Covid-19.</br>
 
 <h1 dir="auto">Plataformas de estudo</h1></br>
 <p>
-<img src="https://cdn.discordapp.com/attachments/794015985450352661/958160303126884372/unnamed.png" height="100" width="auto"/>
-<img src="https://cdn.discordapp.com/attachments/794015985450352661/958159489004093491/20210917072017065_socialPicture.png" height="100" width="auto"/>
-<img src="https://cdn.discordapp.com/attachments/794015985450352661/958159857356275722/default-meta-image-v2.png" height="100" width="auto"/>
-<img src="https://cdn.discordapp.com/attachments/794015985450352661/958160695835394068/Problemas-de-algoritmo-do-YouTube-e-mais-noticias-de-tecnologia.webp" height="100" width="auto"/>
+<img src="https://general-storage-mexpenses.s3.amazonaws.com/alura.png" height="100" width="auto"/>
+<img src="https://general-storage-mexpenses.s3.amazonaws.com/rocketseat.png" height="100" width="auto"/>
+<img src="https://general-storage-mexpenses.s3.amazonaws.com/udemy.png" height="100" width="auto"/>
+<img src="https://general-storage-mexpenses.s3.amazonaws.com/youtube.webp" height="100" width="auto"/>
 </p>
 
 <p dir="auto">
@@ -217,4 +217,4 @@ Bot com comandos simples para informar regiões do Brasil sobre a Covid-19.</br>
 
 <hr>
 </br>
-<img src="https://cdn.discordapp.com/attachments/794015985450352661/971621736401489930/6Zyl.gif" width="100%" height="auto">
+<img src="https://general-storage-mexpenses.s3.amazonaws.com/mr-robot2.gif" width="100%" height="auto">
