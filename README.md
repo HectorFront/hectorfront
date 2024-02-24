@@ -12,10 +12,10 @@
 
 <h2>Mid Front-end Engineer at FullCam & Founder Mexpenses</h2>
 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://media.discordapp.net/attachments/794015985450352661/1127980825867202691/nextjs-icon-dark-background.png?width=1080&height=1080" alt="nextjs" width="50" height="auto"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="auto"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="auto"/></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="auto"/></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nextdotjs" alt="nextjs" width="50" height="auto"/></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/react" alt="react" width="50" height="auto"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/typescript" alt="typescript" width="45" height="auto"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/javascript" alt="javascript" width="45" height="auto"/></a>
 
 
 <hr/>
