@@ -10,7 +10,7 @@
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="42px" width="42px"/>
 
-<h2>Mid Front-end Engineer at FullCam & Founder Mexpenses</h2>
+<h2>Front-end Engineer at FullCam & Founder Mexpenses</h2>
 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nextdotjs" alt="nextjs" width="50" height="auto"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/react" alt="react" width="50" height="auto"/></a>
