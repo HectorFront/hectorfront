@@ -44,7 +44,7 @@ import {render} from "react-dom";
 
 const AboutMe = memo(() => {
   return (
-    <h1 className="title">Meu trabalho</h1>
+    <h1 className="title">My work</h1>
     <ul className="about">
        <li>AWS</li>
        <li>Architetures</li>
