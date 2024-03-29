@@ -63,6 +63,8 @@ const AboutMe = memo(() => {
        improve and learn about new technologies on the current market,
        so that I can apply this knowledge aiming for a stable
        architecture and excellent quality in your services.
+
+       Sorry for my english, i'm improving :)
     </p>
   );
 }, (_prevProps, _nextProps) => {
