@@ -1,7 +1,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HectorFront.HectorFront)
 ![](https://img.shields.io/github/followers/HectorFront?label=Follow&style=social)
 
-<b>Redes socias</b>
+<b>Social media</b>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/hector-rodrigues-da-silva-4073b3191/)
 [![Instagram](https://img.shields.io/badge/-Instagram-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hectin_silva/)](https://www.instagram.com/hect_sv/)
@@ -10,7 +10,7 @@
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="42px" width="42px"/>
 
-<h2>Front-end Engineer at FullCam & Founder Mexpenses</h2>
+<h2>Founder Mexpenses & Lead Front-end Enginner Senior at FullCam</h2>
 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nextdotjs" alt="nextjs" width="50" height="auto"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/react" alt="react" width="50" height="auto"/></a>
@@ -20,10 +20,10 @@
 
 <hr/>
 
-- 🎥 Engenheiro: [FullCam - Fulltime Gestora de Dados Ltda](https://fullcam.me)
+- 🎥 Engineer: [FullCam - Fulltime Gestora de Dados Ltda](https://fullcam.me)
 - 🪙 CEO Fintech: [Mexpenses - Saia das planilhas e venha ter um brilho financeiro](https://www.mexpenses.net)
-- 🤝 Contribuição durante a pandemia: [Coronavírus | Estado de São Paulo](https://spcovid.github.io)
-- 🤝 Contribuição Open Source: [The Only Ducks](https://github.com/theonlyducks)
+- 🤝 Contributor in the global pandemic: [Coronavírus | Estado de São Paulo](https://spcovid.github.io)
+- 🤝 Contributor Open Source: [The Only Ducks](https://github.com/theonlyducks)
 
 <div align="center">
   <a href="https://github.com/hectorfront">
@@ -34,7 +34,7 @@
 
 ### <p>☕️&nbsp;Sobre</p>
 
-- 📍 <b>Brasil, Garça SP</b> - 21 anos
+- 📍 <b>Brazil, Garça SP</b> - 21 years
 - 📬 hectddos103@gmail.com</br>
 - <img src="https://cdn.simpleicons.org/discord" width="15" height="auto"/>&nbsp;<b>Hector Silva#6727</b>
 
@@ -47,22 +47,22 @@ const AboutMe = memo(() => {
     <h1 className="title">Meu trabalho</h1>
     <ul className="about">
        <li>AWS</li>
-       <li>Arquiteturas</li>
-       <li>Pagamentos</li>
-       <li>Refatorações</li>
+       <li>Architetures</li>
+       <li>Payments</li>
+       <li>Refactors</li>
        <li>Landing Pages</li>
-       <li>Novas features</li>
-       <li>Correções de bugs</li>
-       <li>Revisão de código</li>
+       <li>New features</li>
+       <li>Bug fixes</li>
+       <li>Code review</li>
        <li>Deploy</li>
     </ul>
     <p className="description">
-       Programando desde os 16 anos e atualmente com 21 anos, possuindo inglês
-       técnico e quase 5 anos de experiência profissional em Programação Web, estou
-       sempre buscando aprender, melhorar e conhecer as novas tecnologias do 
-       mercado atual, para que assim eu possa estar aplicando como contribuição
-       nos demais softwares futuros e presentes, tendo em vista uma arquitetura
-       estável e uma ótima qualidade nos devidos serviços do mesmo.
+       Programming since was 16 years old and currently 21 years,
+       have technical english and almost 5 years of professional
+       experience in web programming, I am always looking to learn,
+       improve and learn about new technologies on the current market,
+       so that I can apply this knowledge aiming for a stable
+       architecture and excellent quality in your services.
     </p>
   );
 }, (_prevProps, _nextProps) => {
@@ -79,7 +79,7 @@ render(<AboutMe/>,document.getElementById('hector_silva'));
 
 ## 👁 Zoom (React | Vanilla JS)
 <b><a href="https://github.com/HectorFront/template-zoom-javascript">📌 template-zoom-javascript</a></br>
-Uma funcionalidade de Zoom que segue a direção do mouse através do hover com exemplos em React e Vanilla JS</br>
+A Mouse-Follow Zoom Functionality on Hover with Examples in React and Vanilla JS</br>
 </b>
 </br>
 <img src="https://general-storage-mexpenses.s3.amazonaws.com/zoom.png" width="300" height="auto"/></br>
@@ -88,57 +88,57 @@ Uma funcionalidade de Zoom que segue a direção do mouse através do hover com 
 
 ## 🔎 Observables | Vanilla JS
 <b><a href="https://github.com/HectorFront/templates-observables">📌 templates-observables</a></br>
-O que é um Observador? Um Observador é um consumidor de valores entregues por um Observable. Os observadores são simplesmente um conjunto de retornos de chamada.</br>
+An Observer is a consumer of values delivered by an Observable. Observers are simply a set of callback functions.</br>
 </b>
 \
 📜
-<a href="https://rxjs.dev/">Saber mais sobre RxJS.</br></a>
+<a href="https://rxjs.dev/">Learn more about RxJS.</br></a>
 </br>
 <img src="https://general-storage-mexpenses.s3.amazonaws.com/observable.png" width="300" height="auto"/></br>
-<b>✒️ Autores:</b> <em><a href="https://github.com/HectorFront">@Hector Silva</a></em> <em><a href="https://github.com/giovanesantossilva">@Giovane Santos</a></em></br>
+<b>✒️ Authors:</b> <em><a href="https://github.com/HectorFront">@Hector Silva</a></em> <em><a href="https://github.com/giovanesantossilva">@Giovane Santos</a></em></br>
 
 <hr>
 
 ## 📧 Micromailer
 <b><a href="https://github.com/HectorFront/micromailer">📌 micromailer</a></br>
-API com Node.js para permitir fácil envio de e-mails com o módulo Nodemailer.</br>
+API with Node.js to allow easy sending of emails with the Nodemailer module.</br>
 </b>
 </br>
 <img src="https://general-storage-mexpenses.s3.amazonaws.com/micromailer.png" width="300" height="auto"/></br>
-<b>✒️ Autores:</b> <em><a href="https://github.com/HectorFront">@Hector Silva</a></em>
+<b>✒️ Authors:</b> <em><a href="https://github.com/HectorFront">@Hector Silva</a></em>
 <hr>
 
 ## 👾 Discord Bots
 <b><a href="https://github.com/HectorFront/bot-discord-covid">📌 bot-discord-covid</a></br>
-<h3>⚙️ Comandos</h3>
+<h3>⚙️ Commands</h3>
 <ul>
 <li>"covid brasil"</br></li>
 <li>"covid [cidade]"</br></li>
 <li>"covid [sigla: estado]"</br></li>
 </ul>
-Bot com comandos simples para informar regiões do Brasil sobre a Covid-19.</br>
+Bot with simple commands to inform regions of Brazil about Covid-19.</br>
 </b>
 </br>
 <img src="https://general-storage-mexpenses.s3.amazonaws.com/discord-bot.png" width="300" height="auto"/>
-<b>✒️ Autores:</b> <em><a href="https://github.com/HectorFront">@Hector Silva</a></em>
+<b>✒️ Authors:</b> <em><a href="https://github.com/HectorFront">@Hector Silva</a></em>
 
 <hr>
 
-## 💻 Website | Instituição de ensino
+## 💻 Website | Educational institution
 <b><a href="https://github.com/HectorFront/website-etecmam">📌 website-etecmam</a></br>
-[TCC] Aplicação para visualização de cursos, matérias e administração da instituição.</br>
+[Final paper] Application for viewing courses, subjects and administration of the institution.</br>
 </b>
 </br>
 📝 2019
 <a href="http://www.etecmam.com.br/">Etec Monsenhor Antonio Magliano.</br></a>
 </br>
 <img src="https://general-storage-mexpenses.s3.amazonaws.com/etecmam.png" width="300" height="auto"/></br>
-<b>✒️ Autores:</b> <em><a href="https://github.com/HectorFront">@Hector Silva</a></em> <em><a href="https://github.com/diogoalvesf">@Diogo Alves</a>&nbsp;</em></br>
+<b>✒️ Authors:</b> <em><a href="https://github.com/HectorFront">@Hector Silva</a></em> <em><a href="https://github.com/diogoalvesf">@Diogo Alves</a>&nbsp;</em></br>
 <br/>
-<a href="https://github.com/HectorFront?tab=repositories">📁 Ver mais repositórios...</a>
+<a href="https://github.com/HectorFront?tab=repositories">📁 See more repositories...</a>
 <hr>
 
-<h1 dir="auto">Plataformas de estudo</h1></br>
+<h1 dir="auto">Study platforms</h1></br>
 <p>
 <img src="https://general-storage-mexpenses.s3.amazonaws.com/alura.png" height="100" width="auto"/>
 <img src="https://general-storage-mexpenses.s3.amazonaws.com/rocketseat.png" height="100" width="auto"/>
