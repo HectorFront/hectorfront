@@ -1,4 +1,3 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=HectorFront.HectorFront)
 ![](https://img.shields.io/github/followers/HectorFront?label=Follow&style=social)
 
 <b>Social media</b>
