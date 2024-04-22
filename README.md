@@ -139,7 +139,7 @@ Bot with simple commands to inform regions of Brazil about Covid-19.</br>
 <a href="https://github.com/HectorFront?tab=repositories">📁 See more repositories...</a>
 <hr>
 
-<h1 dir="auto">Study platforms</h1></br>
+<h2 dir="auto">Study platforms</h2>
 <p>
 <img src="https://general-storage-mexpenses.s3.amazonaws.com/alura.png" height="100" width="auto"/>
 <img src="https://general-storage-mexpenses.s3.amazonaws.com/rocketseat.png" height="100" width="auto"/>
