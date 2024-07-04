@@ -47,7 +47,7 @@ const AboutMe = memo(() => {
     <ul className="about">
        <li>AWS</li>
        <li>Architetures</li>
-       <li>Payments</li>
+       <li>Payment gateways</li>
        <li>Refactors</li>
        <li>Landing Pages</li>
        <li>New features</li>
