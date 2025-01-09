@@ -31,7 +31,7 @@
    </a>
 </div>
 
-### <p>☕️&nbsp;Sobre</p>
+### <p>☕️&nbsp;About</p>
 
 - 📍 <b>Brazil, Garça SP</b> - 22 years
 - 📬 hectddos103@gmail.com</br>
