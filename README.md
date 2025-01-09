@@ -168,7 +168,7 @@ Bot with simple commands to inform regions of Brazil about Covid-19.</br>
 	<a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://cdn.simpleicons.org/typescript" alt="typescript" width="auto" height="50" style="max-width: 100%;"> </a>
 	<a href="https://babeljs.io/" rel="nofollow"> <img src="https://cdn.simpleicons.org/babel" alt="babel" width="auto" height="50" style="max-width: 100%;"> </a>
 	<a href="https://gulpjs.com/" rel="nofollow"> <img src="https://cdn.simpleicons.org/gulp" alt="gulpjs" width="auto" height="50" style="max-width: 100%;"> </a>
-	<a href="https://aws.amazon.com/pt/console/" rel="nofollow"> <img src="https://cdn.simpleicons.org/amazonaws" alt="AWS" width="50" height="50" style="max-width: 100%;"></a>
+	<a href="https://aws.amazon.com/pt/console/" rel="nofollow"> <img src="https://simpleicons.org/icons/amazonwebservices.svg" alt="AWS" width="50" height="50" style="max-width: 100%;"></a>
     <a href="https://aws.amazon.com/pt/s3/" rel="nofollow"> <img src="https://cdn.simpleicons.org/amazons3" alt="amazons3" width="50" height="50" style="max-width: 100%;"></a>
     <a href="https://aws.amazon.com/pt/ec2/" rel="nofollow"> <img src="https://cdn.simpleicons.org/amazonec2" alt="amazonec2" width="50" height="50" style="max-width: 100%;"></a>
     <a href="https://aws.amazon.com/pt/route53/" rel="nofollow"> <img src="https://cdn.simpleicons.org/amazonroute53" alt="amazonroute53" width="50" height="50" style="max-width: 100%;"></a>
