@@ -153,7 +153,6 @@ Bot with simple commands to inform regions of Brazil about Covid-19.</br>
 
 <h3 align="left">APIs • Linguagens • Ferramentas • Estudos:</h3>
 <p align="left" dir="auto" id="tools">
-	<a href="https://code.visualstudio.com/" rel="nofollow"> <img src="https://cdn.simpleicons.org/visualstudiocode" alt="visualstudiocode" width="50" height="50" style="max-width: 100%;"></a>
     <a href="https://www.jetbrains.com/webstorm" rel="nofollow"> <img src="https://cdn.simpleicons.org/webstorm" alt="webstorm" width="50" height="50" style="max-width: 100%;"></a>
     <a href="https://www.jetbrains.com/pycharm" rel="nofollow"> <img src="https://cdn.simpleicons.org/pycharm" alt="pycharm" width="50" height="50" style="max-width: 100%;"></a>
     <a href="https://www.jetbrains.com/datagrip" rel="nofollow"> <img src="https://cdn.simpleicons.org/datagrip" alt="datagrip" width="50" height="50" style="max-width: 100%;"></a>
