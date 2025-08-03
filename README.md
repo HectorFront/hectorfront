@@ -20,7 +20,7 @@
 <hr/>
 
 - 🎥 Engineer: [FullCam - Fulltime Gestora de Dados Ltda](https://fullcam.me)
-- 🪙 Founder & Engineer: [Mexpenses - Troque suas planilhas com complexidades por simplicidade](https://www.mexpenses.com.br)
+- 🪙 Founder & Engineer: [Mexpenses - Menos planilha. Mais vida!](https://www.mexpenses.com.br)
 - 🤝 Contributor in the global pandemic: [Coronavírus | Estado de São Paulo](https://spcovid.github.io)
 - 🤝 Contributor Open Source: [The Only Ducks](https://github.com/theonlyducks)
 
