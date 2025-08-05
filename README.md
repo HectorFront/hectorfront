@@ -46,6 +46,7 @@ const AboutMe = memo(() => {
     <h1 className="title">My work</h1>
     <ul className="about">
        <li>AWS</li>
+       <li>Hetzner Cloud</li>
        <li>Architetures</li>
        <li>Payment gateways</li>
        <li>Refactors</li>
