@@ -56,14 +56,12 @@ const AboutMe = memo(() => {
        <li>Deploy</li>
     </ul>
     <p className="description">
-       Programming since was 16 years old and currently 21 years,
-       have technical english and almost 5 years of professional
-       experience in web programming, I am always looking to learn,
-       improve and learn about new technologies on the current market,
-       so that I can apply this knowledge aiming for a stable
-       architecture and excellent quality in your services.
-
-       Sorry for my english, i'm improving :)
+	Programming since was 16 years old and currently 22 years,
+	i have technical english and almost 6 years of professional
+	experience in web programming, I am always looking to learn,
+	improve and learn about new technologies on the current market,
+	so that I can 	apply this knowledge aiming for a stable
+	architecture and excellent quality in your services.
     </p>
   );
 }, (_prevProps, _nextProps) => {
