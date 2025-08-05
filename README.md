@@ -54,7 +54,7 @@ const AboutMe = memo(() => {
        <li>New features</li>
        <li>Bug fixes</li>
        <li>Code review</li>
-       <li>Deploy</li>
+       <li>Deploy CI/CD</li>
     </ul>
     <p className="description">
 	Programming since was 16 years old and currently 22 years,
