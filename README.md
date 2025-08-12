@@ -2,7 +2,7 @@
 
 <b>Social media</b>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/hector-rodrigues-da-silva-4073b3191/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hector-silva-4073b3191/)](https://www.linkedin.com/in/hector-silva-4073b3191/)
 [![Instagram](https://img.shields.io/badge/-Instagram-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hectin_silva/)](https://www.instagram.com/hect_sv/)
 [![Facebook](https://img.shields.io/badge/-facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/hectddos103)](https://www.facebook.com/hectddos103)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hectddos103@gmail.com)](mailto:hectddos103@gmail.com)
