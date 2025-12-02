@@ -33,7 +33,7 @@
 
 ### <p>☕️&nbsp;About</p>
 
-- 📍 <b>Brazil, Garça SP</b> - 22 years
+- 📍 <b>Brazil, Garça SP</b> - 23 years
 - 📬 hectddos103@gmail.com</br>
 - <img src="https://cdn.simpleicons.org/discord" width="15" height="auto"/>&nbsp;<b>Hector Silva#6727</b>
 
@@ -71,7 +71,6 @@ const AboutMe = memo(() => {
 
 render(<AboutMe/>,document.getElementById('hector_silva'));
 ```
-<img src="https://general-storage-mexpenses.s3.amazonaws.com/mrobot1.gif" border="0" width="100%" height="auto">
 
 # 🔓 Open Source
 
