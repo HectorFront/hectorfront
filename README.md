@@ -57,7 +57,7 @@ const AboutMe = memo(() => {
        <li>Deploy CI/CD</li>
     </ul>
     <p className="description">
-	Programming since was 16 years old and currently 22 years,
+	Programming since was 16 years old and currently 23 years,
 	i have technical english and almost 6 years of professional
 	experience in web programming, I am always looking to learn,
 	improve and learn about new technologies on the current market,
