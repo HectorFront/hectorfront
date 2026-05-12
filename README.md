@@ -154,22 +154,18 @@ Bot with simple commands to inform regions of Brazil about Covid-19.</br>
     <a href="https://www.jetbrains.com/pycharm" rel="nofollow"> <img src="https://cdn.simpleicons.org/pycharm" alt="pycharm" width="50" height="50" style="max-width: 100%;"></a>
     <a href="https://www.jetbrains.com/datagrip" rel="nofollow"> <img src="https://cdn.simpleicons.org/datagrip" alt="datagrip" width="50" height="50" style="max-width: 100%;"></a>
 	<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" rel="nofollow"> <img src="https://cdn.simpleicons.org/html5" alt="html5" width="auto" height="50" style="max-width: 100%;"> </a>
-	<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" rel="nofollow"> <img src="https://cdn.simpleicons.org/css3" alt="css3" width="auto" height="50" style="max-width: 100%;"> </a>
+	<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" rel="nofollow"> <img src="https://cdn.simpleicons.org/css" alt="css3" width="auto" height="50" style="max-width: 100%;"> </a>
 	<a href="https://getbootstrap.com" rel="nofollow"> <img src="https://cdn.simpleicons.org/bootstrap" alt="Bootstrap" width="auto" height="50" style="max-width: 100%;"> </a>
 	<a href="https://m3.material.io/" rel="nofollow"> <img src="https://cdn.simpleicons.org/materialdesign" alt="materialdesign" width="auto" height="50" style="max-width: 100%;"> </a>
     <a href="https://github.com/css-modules/css-modules" rel="nofollow"> <img src="https://cdn.simpleicons.org/cssmodules" alt="cssmodules" width="auto" height="50" style="max-width: 100%;"> </a>
 	<a href="https://www.figma.com/" rel="nofollow"> <img src="https://cdn.simpleicons.org/figma" width="auto" height="50" style="max-width: 100%;"> </a>
-    <a href="https://canva.com" rel="nofollow"> <img src="https://cdn.simpleicons.org/canva" alt="canva" width="50" height="50" style="max-width: 100%;"></a>
     <a href="https://obsproject.com/download" rel="nofollow"> <img src="https://cdn.simpleicons.org/obsstudio" alt="obsstudio" width="50" height="50" style="max-width: 100%;"></a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://cdn.simpleicons.org/javascript" alt="javascript" width="auto" height="50" style="max-width: 100%;"> </a>
 	<a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://cdn.simpleicons.org/typescript" alt="typescript" width="auto" height="50" style="max-width: 100%;"> </a>
 	<a href="https://babeljs.io/" rel="nofollow"> <img src="https://cdn.simpleicons.org/babel" alt="babel" width="auto" height="50" style="max-width: 100%;"> </a>
 	<a href="https://gulpjs.com/" rel="nofollow"> <img src="https://cdn.simpleicons.org/gulp" alt="gulpjs" width="auto" height="50" style="max-width: 100%;"> </a>
-	<a href="https://aws.amazon.com/pt/console/" rel="nofollow"> <img src="https://simpleicons.org/icons/amazonwebservices.svg" alt="AWS" width="50" height="50" style="max-width: 100%;"></a>
-    <a href="https://aws.amazon.com/pt/s3/" rel="nofollow"> <img src="https://cdn.simpleicons.org/amazons3" alt="amazons3" width="50" height="50" style="max-width: 100%;"></a>
-    <a href="https://aws.amazon.com/pt/ec2/" rel="nofollow"> <img src="https://cdn.simpleicons.org/amazonec2" alt="amazonec2" width="50" height="50" style="max-width: 100%;"></a>
-    <a href="https://aws.amazon.com/pt/route53/" rel="nofollow"> <img src="https://cdn.simpleicons.org/amazonroute53" alt="amazonroute53" width="50" height="50" style="max-width: 100%;"></a>
-    <a href="https://aws.amazon.com/pt/rds/" rel="nofollow"> <img src="https://cdn.simpleicons.org/amazonrds" alt="amazonrds" width="50" height="50" style="max-width: 100%;"></a>
+	<a href="https://aws.amazon.com/pt/console/" rel="nofollow"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-amazon-aws-icon-svg-download-png-3029842.png" alt="AWS" width="50" height="50" style="max-width: 100%;"></a>
+    <a href="https://www.hetzner.com/cloud" rel="nofollow"> <img src="https://cdn.simpleicons.org/hetzner" alt="Hetzner" width="50" height="50" style="max-width: 100%;"></a>
 	<a href="https://www.chartjs.org" rel="nofollow"> <img src="https://cdn.simpleicons.org/chartdotjs" width="auto" height="50" style="max-width: 100%;"> </a>
 	<a href="https://www.docker.com/" rel="nofollow"> <img src="https://cdn.simpleicons.org/docker" alt="docker" width="auto" height="50" style="max-width: 100%;"> </a>
 	<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nextdotjs" alt="nextjs" width="auto" height="50"/></a>
@@ -196,6 +192,7 @@ Bot with simple commands to inform regions of Brazil about Covid-19.</br>
 	<a href="https://nodejs.org" rel="nofollow"> <img src="https://cdn.simpleicons.org/nodedotjs" alt="nodejs" width="auto" height="50" style="max-width: 100%;"> </a>
     <a href="https://nestjs.com/" rel="nofollow"> <img src="https://cdn.simpleicons.org/nestjs" alt="nodejs" width="auto" height="50" style="max-width: 100%;"> </a>
     <a href="https://www.python.org" rel="nofollow"> <img src="https://cdn.simpleicons.org/python" alt="python" width="40" height="40" style="max-width: 100%;"> </a>
+    <a href="https://fastapi.tiangolo.com/" rel="nofollow"> <img src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" width="auto" height="50" style="max-width: 100%;"> </a>
     <a href="https://flask.palletsprojects.com" rel="nofollow"> <img src="https://cdn.simpleicons.org/flask" alt="flask" width="auto" height="50" style="max-width: 100%;"> </a>
 	<a href="https://webpack.js.org/" rel="nofollow"> <img src="https://cdn.simpleicons.org/webpack" alt="webpack" width="auto" height="50" style="max-width: 100%;"> </a>
     <a href="https://tailwindcss.com/" rel="nofollow"> <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" width="auto" height="50" style="max-width: 100%;"> </a>
@@ -209,7 +206,6 @@ Bot with simple commands to inform regions of Brazil about Covid-19.</br>
 	<a href="https://developers.google.com/analytics" rel="nofollow"> <img src="https://cdn.simpleicons.org/googleanalytics" alt="Google Analytics" width="auto" height="50" style="max-width: 100%;"> </a>
     <a href="https://ads.google.com/" rel="nofollow"> <img src="https://cdn.simpleicons.org/googleads" alt="Google Ads" width="auto" height="50" style="max-width: 100%;"> </a>
     <a href="https://developers.google.com/maps" rel="nofollow"> <img src="https://cdn.simpleicons.org/googlemaps" alt="Google Maps" width="auto" height="50" style="max-width: 100%;"> </a>
-    <a href="https://openai.com/" rel="nofollow"> <img src="https://cdn.simpleicons.org/openai" alt="OpenAI" width="auto" height="50" style="max-width: 100%;"> </a>
 </p>
 
 <hr>
