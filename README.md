@@ -164,7 +164,7 @@ Bot with simple commands to inform regions of Brazil about Covid-19.</br>
 	<a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://cdn.simpleicons.org/typescript" alt="typescript" width="auto" height="50" style="max-width: 100%;"> </a>
 	<a href="https://babeljs.io/" rel="nofollow"> <img src="https://cdn.simpleicons.org/babel" alt="babel" width="auto" height="50" style="max-width: 100%;"> </a>
 	<a href="https://gulpjs.com/" rel="nofollow"> <img src="https://cdn.simpleicons.org/gulp" alt="gulpjs" width="auto" height="50" style="max-width: 100%;"> </a>
-	<a href="https://aws.amazon.com/pt/console/" rel="nofollow"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-amazon-aws-icon-svg-download-png-3029842.png" alt="AWS" width="50" height="50" style="max-width: 100%;"></a>
+	<a href="https://aws.amazon.com/pt/console/" rel="nofollow"> <img src="https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png" alt="AWS" width="50" height="50" style="max-width: 100%;"></a>
     <a href="https://www.hetzner.com/cloud" rel="nofollow"> <img src="https://cdn.simpleicons.org/hetzner" alt="Hetzner" width="50" height="50" style="max-width: 100%;"></a>
 	<a href="https://www.chartjs.org" rel="nofollow"> <img src="https://cdn.simpleicons.org/chartdotjs" width="auto" height="50" style="max-width: 100%;"> </a>
 	<a href="https://www.docker.com/" rel="nofollow"> <img src="https://cdn.simpleicons.org/docker" alt="docker" width="auto" height="50" style="max-width: 100%;"> </a>
@@ -178,7 +178,7 @@ Bot with simple commands to inform regions of Brazil about Covid-19.</br>
     <a href="https://pages.github.com/" rel="nofollow"><img src="https://cdn.simpleicons.org/githubpages" width="auto" height="50" style="max-width: 100%;"> </a>
     <a href="https://docs.github.com/actions" rel="nofollow"><img src="https://cdn.simpleicons.org/githubactions" width="auto" height="50" style="max-width: 100%;"> </a>
 	<a href="https://stripe.com/br" rel="nofollow"> <img src="https://cdn.simpleicons.org/stripe" alt="stripe" width="auto" height="50" style="max-width: 100%;"> </a>
-	<a href="https://heroku.com" rel="nofollow"> <img src="https://cdn.simpleicons.org/heroku" width="auto" height="50" style="max-width: 100%;"> </a>
+	<a href="https://heroku.com" rel="nofollow"> <img src="https://www.heroku.com/wp-content/uploads/2025/01/apple-touch-icon-180x180-1.png" width="auto" height="50" style="max-width: 100%;"> </a>
 	<a href="https://ionicframework.com" rel="nofollow"> <img src="https://cdn.simpleicons.org/ionic" width="auto" height="50" style="max-width: 100%;"> </a>
 	<a href="https://jestjs.io" rel="nofollow"> <img src="https://cdn.simpleicons.org/jest" alt="jest" width="auto" height="50" style="max-width: 100%;"> </a>
 	<a href="https://www.linux.org/" rel="nofollow"> <img src="https://cdn.simpleicons.org/linux" alt="linux" width="auto" height="50" style="max-width: 100%;"> </a>
